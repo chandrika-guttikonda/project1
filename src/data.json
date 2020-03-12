@@ -1,0 +1,90 @@
+{
+    "profiles":[
+        {
+            "basics":{
+                "name":"Chandrika",
+                "email":"chandrika@gmail.com",
+                "mobile":"+91 8459236785"
+            },
+            "education":[
+                {
+                    "degree":"S.S.C",
+                    "percentage":"90%",
+                    "institute":"SVVN"
+                },
+                {
+                    "degree":"Diploma-CME",
+                    "percentage":"93%",
+                    "institute":"MBTS"
+                },
+                {
+                    "degree":"B.TECH-CSE",
+                    "percentage":"93%",
+                    "institute":"VVIT"
+                }
+
+            ],
+            "skills":[
+                {
+                    "type":"Programming languages",
+                    "values":["c","c++","Java","Python","Ruby",".net"]
+                },
+                {
+                    "type":"Web Technologies",
+                    "values":["HTML","CSS","Java script"]
+                },
+                {
+                    "type":"Frame works and libraries",
+                    "values":["ReactJS"]
+                },
+                {
+                    "type":"Operating systems",
+                    "values":["Windows","Linux","Mac"]
+                }
+            ]        
+        },
+        {
+            "basics":{
+                "name":"Harika",
+                "email":"Harika@gmail.com",
+                "mobile":"+91 9876543210"
+            },
+            "education":[
+                {
+                    "degree":"S.S.C",
+                    "percentage":"93%",
+                    "institute":"SVVN"
+                },
+                {
+                    "degree":"Diploma-ECE",
+                    "percentage":"95%",
+                    "institute":"MBTS"
+                },
+                {
+                    "degree":"B.TECH-ECE",
+                    "percentage":"95%",
+                    "institute":"VVIT"
+                }
+
+            ],"skills":[
+                {
+                    "type":"Programming languages",
+                    "values":["c","c++","Java","Python","Ruby",".net"]
+                },
+                {
+                    "type":"Web Technologies",
+                    "values":["HTML","CSS","Java script"]
+                },
+                {
+                    "type":"Frame works and libraries",
+                    "values":["ReactJS"]
+                },
+                {
+                    "type":"Operating systems",
+                    "values":["Windows","Linux","Mac"]
+                }
+            ]        
+
+        }
+    ]
+}
